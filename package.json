@@ -1,5 +1,5 @@
 {
-  "name": "ormnz.pdfprinter.nodejs",
+  "name": "@ormnz/pdfprinter",
   "version": "0.1.0",
   "description": "Print PDFs from HTML content",
   "main": "lib/printer.js",
